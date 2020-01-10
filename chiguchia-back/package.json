@@ -1,0 +1,25 @@
+{
+  "name": "chiguchia-back",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.7",
+    "connect-mongo": "^3.2.0",
+    "cookie-parser": "~1.4.4",
+    "crypto-js": "^3.1.9-1",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "express-generator": "^4.16.1",
+    "express-session": "^1.17.0",
+    "http-errors": "~1.6.3",
+    "joi": "^14.3.1",
+    "mongoose": "^5.8.4",
+    "morgan": "~1.9.1",
+    "nodemon": "^2.0.2",
+    "pug": "^2.0.4",
+    "validator": "^12.1.0"
+  }
+}
