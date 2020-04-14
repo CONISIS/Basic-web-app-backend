@@ -4,4 +4,4 @@ Por ahora, solo está completo el Back de la aplicación usando NodeJS, Express 
 
 El principal propósito de este contenido es ayudar a los estudiantes de 'Programación con tecnologías Web' a ilustar una posible manera de llevar acabo parte de sus tareas a lo largo de la materia, explicado a profundidad. 
 
-Puede encontrar la información detallada del proyecto en la wiki: [Link](https://github.com/CONISIS/Basic-web-app-backend/wiki)
+Puede encontrar la información detallada del proyecto en la wiki [aquí](https://github.com/CONISIS/Basic-web-app-backend/wiki)
